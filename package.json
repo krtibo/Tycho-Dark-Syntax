@@ -7,7 +7,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/tycho-dark-syntax",
+  "repository": "https://github.com/blackxparade/Tycho-Dark-Syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
