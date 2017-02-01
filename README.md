@@ -8,5 +8,6 @@ A dark syntax theme based on the colors used on Tycho's Awake album cover.
 
 ![A screenshot of the theme.](http://i.imgur.com/n3k3VDY.png)
 
-Font: Hack 
+Font: [Hack](http://sourcefoundry.org/hack/)
+
 A light version of this theme: [tycho-light-syntax](https://atom.io/themes/tycho-light-syntax)
